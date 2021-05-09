@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## Code written and managed by Code With akky
+
+## Learn it from video tutorial on youtube
+
+[YouTbe] (https://youtube.com/c/CodeWithAkky)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
