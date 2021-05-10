@@ -70,6 +70,7 @@ function Videos({
             <InsertCommentIcon />
             <p>{comment}</p>
           </div>
+
           <div className="shortsVideoSideIcon">
             <NearMeIcon />
             <p>{share}</p>
